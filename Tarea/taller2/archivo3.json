@@ -1,6 +1,0 @@
-[
-    { "nombre": "kilogramo de arroz", "precio": 10, "cantidad_en_stock": 100 },
-    { "nombre": "kilogramo de frijol", "precio": 25, "cantidad_en_stock": 50 },
-    { "nombre": "litro de leche", "precio": 5, "cantidad_en_stock": 200 },
-    { "nombre": "platanos", "precio": 30, "cantidad_en_stock": 75 }
-]
